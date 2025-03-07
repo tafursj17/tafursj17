@@ -1,7 +1,7 @@
 # Hi 👋, I'm Sebastian Tafur
 
-[![GitHub Badge](https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/tafursj17)
 [![LinkedIn Badge](https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sebastian-tafur)
+[![GitHub Badge](https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/tafursj17)
 [![GitLab Badge](https://img.shields.io/badge/gitlab-330F63.svg?&style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/tafursj)
 
 ### Glad to see you here!  
