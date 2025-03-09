@@ -38,4 +38,9 @@ Tools:
 
 ---
 
+📚 Currently learning
+
+- SOLID principles
+- Functional programming
+- Cloud services
 
