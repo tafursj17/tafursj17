@@ -43,4 +43,5 @@ Tools:
 - SOLID principles
 - Functional programming
 - Cloud services
+- Layered architecture
 
