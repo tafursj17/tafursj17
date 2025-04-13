@@ -41,7 +41,7 @@ Tools:
 
 ---
 
-📚 Currently learning
+📚 Currently learning 
 
 - SOLID principles
 - Functional programming
