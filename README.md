@@ -5,7 +5,7 @@
 [![GitLab Badge](https://img.shields.io/badge/gitlab-330F63.svg?&style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/tafursj)
 
 ### Glad to see you here!  
-I'm a Junior BackEnd Developer with a strong foundation in technologies like Java, Spring Boot, Python, Django, and SQL. I enjoy working on innovative projects and continuously learning new skills.
+I'm a Junior BackEnd Developer with a strong foundation in technologies like Java, Spring Boot, Python, Django, and SQL. I enjoy working on innovative projects and continuously learning new skills. Currently, I'm working as a Backend Developer at Tikipal, a startup where I'm contributing to the development of scalable and efficient solutions.
 
 ---
 ## ⚡ Technologies
