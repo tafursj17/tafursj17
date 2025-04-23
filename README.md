@@ -48,8 +48,3 @@ Tools:
 - SOLID principles
 - Cloud services
 - Layered architecture
-
-
-# 📊 GitHub Stats:
-
-
